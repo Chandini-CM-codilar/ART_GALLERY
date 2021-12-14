@@ -1,0 +1,56 @@
+.Container {
+	display: flex;
+	flex-direction: column;
+}
+.location_image {
+	img {
+		width: 100%;
+		height: 400px;
+		position: relative;
+	}
+}
+.back_page {
+	position: absolute;
+	top: 3%;
+	left: 10%;
+	color: white;
+	font-size: 20px;
+	width: 10%;
+	height: 3%;
+	a {
+		text-decoration: none;
+	}
+}
+.main {
+	width: 100%;
+	height: 400px;
+	
+	background-color: rgb(14, 1, 1);
+	color: white;
+}
+.padding_div {
+	display: flex;
+	width: 100%;
+}
+.location_text {
+	width: 50%;
+	text-align: center;
+}
+.one {
+	padding-left: 5%;
+	background-color: rgb(241, 199, 213);
+}
+.text {
+	font-size: 200%;
+}
+.Art_Gallery_Image_Text2 {
+	text-align: center;
+	font-size: 50%;
+}
+.icons {
+	img {
+		width: 5rem;
+		height: 3rem;
+		margin-left: 90rem;
+	}
+}
